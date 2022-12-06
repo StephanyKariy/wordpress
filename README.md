@@ -1,0 +1,2 @@
+# wordpress
+LGPD Install
